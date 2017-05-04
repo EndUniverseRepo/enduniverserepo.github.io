@@ -1,0 +1,8 @@
+Origin: EndUniverse Community Repo Archive
+Label: EndUniverse
+Suite: stable
+Version: 1.0
+Codename: com.enduniverse.repo
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks made by the community.
