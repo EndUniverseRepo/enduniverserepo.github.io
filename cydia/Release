@@ -4,5 +4,5 @@ Suite: stable
 Version: 1.0
 Codename: com.enduniverse.repo
 Architectures: iphoneos-arm
-Components: main
+Components: maina
 Description: Tweaks made by the community.
