@@ -1,0 +1,110 @@
+Package: com.enduniverse.p1
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS
+Essential: yes
+Package: com.enduniverse.p2
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 2
+Essential: yes
+Package: com.enduniverse.p3
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 3
+Essential: yes
+Package: com.enduniverse.p4
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 4
+Essential: yes
+Package: com.enduniverse.p5
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 5
+Essential: yes
+Package: com.enduniverse.p6
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 6
+Essential: yes
+Package: com.enduniverse.p7
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 7
+Essential: yes
+Package: com.enduniverse.p8
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 8
+Essential: yes
+Package: com.enduniverse.p9
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 9
+Essential: yes
+Package: com.enduniverse.p10
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: omg
+Maintainer: omg <omg@example.com>
+Section: Repositories
+Description: EndUniverse Repository has been handed over to other people. It has been rebranded as Vexation Repository. You may add it at "https://repo.vexation.co"
+Depiction: https://apt.enduniverse.com/cydia/depiction.html
+Author: omg <omg@example.com>
+Name: READ THIS 10
+Essential: yes
